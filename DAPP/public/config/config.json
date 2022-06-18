@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0x1B4e98FB07e1D04401beca40Dd36774F0C842a05",
   "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x1b4e98fb07e1d04401beca40dd36774f0c842a05",
   "NETWORK": {
-    "NAME": "Polygon",
+    "NAME": "Polygon Testnet",
     "SYMBOL": "Matic",
-    "ID": 137
+    "ID": 80001
   },
   "NFT_NAME": "DYOR Cards",
   "SYMBOL": "DYORC",
